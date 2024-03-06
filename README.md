@@ -1,7 +1,7 @@
 
 # Form with Email Sender in Spring with Java
 
-This is a form, runned on the local server in IntelliJ, and after completing the form, the user will receive a special email with a message! I've used Spring MVC and Java Mail Sender dependency with that stores the users in a PostgreSQL database hosted on Docker.
+This is a form, runned on the local server in IntelliJ, and after completing the form, the user will receive a special email with a message! I've used *Spring MVC* and *Java Mail Sender dependency*. The user information is stored in a *PostgreSQL* database hosted on *Docker*.
 
 
 ## 🛠 Tech Stack
